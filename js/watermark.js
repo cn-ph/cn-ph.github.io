@@ -4,7 +4,7 @@ function watermark(settings) {
         watermark_txt: "text",
         watermark_x: 30, //水印起始位置x轴坐标
         watermark_y: 150, //水印起始位置Y轴坐标
-        watermark_rows: 50, //水印行数
+        watermark_rows: 100, //水印行数
         watermark_cols: 10, //水印列数
         watermark_x_space: 50, //水印x轴间隔
         watermark_y_space: 50, //水印y轴间隔
